@@ -6,6 +6,8 @@
 Developing efficient solutions using C#, SolidWorks API, and COM interoperability.
 Building modern, responsive interfaces with WPF and Windows Forms.
 Debugging complex systems and optimizing workflows for users.
+
+Recently involved into creating diet application which allows users to create their own diet plans with custom dishes for dates
 ## 🚀Career Goals:
 I'm currently transitioning into  back-end development, combining my engineering expertise with software development. My goal is to design scalable, innovative applications that make a tangible impact.
 
